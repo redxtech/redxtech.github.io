@@ -28,7 +28,7 @@ twitter_username: gabedunn_
 github_username:  redxtech
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
